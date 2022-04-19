@@ -1,0 +1,7 @@
+img[alt] {
+  height: 150px;
+  width: 150px;
+}
+a[title] {
+  font-size: medium;
+}

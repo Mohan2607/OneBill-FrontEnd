@@ -1,0 +1,12 @@
+h1 {
+  cursor: auto;
+  text-align: center;
+  column-gap: cm;
+}
+#p1 {
+  background-color: azure;
+}
+
+.para1 {
+  background-color: rgb(15, 18, 200);
+}

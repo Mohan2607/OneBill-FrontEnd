@@ -1,0 +1,24 @@
+.img2 {
+  height: 170px;
+  width: 269px;
+  background-attachment: fixed;
+}
+
+#img1 {
+  height: 150px;
+  width: 150px;
+}
+
+h1:hover {
+  color: blue;
+}
+
+a:visited {
+  color: brown;
+}
+
+.p01 {
+  background-image: url(crop.jpg);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
